@@ -1,5 +1,9 @@
 
  👋 Hi, I’m @Alien-ext
 n-ext/Alien-ext is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 ----
+Usage
+
+curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+chmod +x wireguard-install.sh
+./wireguard-install.sh
